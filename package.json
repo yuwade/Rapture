@@ -1,0 +1,30 @@
+{
+  "name": "rapture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "acl": "^0.4.9",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "body-parser": "^1.15.2",
+    "mongoose": "^4.5.8",
+    "q": "^1.4.1",
+    "react": "^15.3.1",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "^15.3.1",
+    "react-hot-loader": "^1.3.0",
+    "react-router": "^2.7.0",
+    "webpack": "^1.13.2",
+    "webpack-hot-middleware": "^2.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yu",
+  "license": "ISC"
+}
